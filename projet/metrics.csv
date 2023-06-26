@@ -1,0 +1,7 @@
+simulator=nest,plot_figure=True,nb_convolution=2,grid_input=13,size_filter=5,debug=None,time_data=15000,precision=1.0,recall=0.5625,f1_score=0.72,precision=0.925,recall=0.5285714285714286,f1_score=0.6727272727272726
+simulator=nest,plot_figure=True,nb_convolution=4,grid_input=13,size_filter=5,debug=None,time_data=15000,0-1,2-3
+simulator=nest,plot_figure=True,nb_convolution=2,grid_input=13,size_filter=5,debug=None,time_data=20000,0-1
+simulator=nest,plot_figure=True,nb_convolution=4,grid_input=13,size_filter=5,debug=None,time_data=20000,3-2
+simulator=nest,plot_figure=True,nb_convolution=2,grid_input=13,size_filter=5,debug=None,time_data=30000,1-0
+simulator=nest,plot_figure=True,nb_convolution=4,grid_input=13,size_filter=5,debug=None,time_data=30000,2-2
+simulator=nest,plot_figure=True,nb_convolution=2,grid_input=13,size_filter=5,debug=None,time_data=50000,
